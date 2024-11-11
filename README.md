@@ -12,6 +12,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 I am a Data Systematization Technology student, currently finishing my degree. I am expanding my knowledge in both front-end and back-end development. I love learning and building useful tools.\
+<br>
 🌱 I’m currently learning ...\
     -Flask.\
     -Android.\
