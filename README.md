@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 <h1 align="center"><b>Hi , I'm Jhon Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
@@ -66,6 +66,14 @@
 <a href="https://www.linkedin.com/in/jhon-esneider-gonzalez-ramos-04a47b203/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+
 <!--
 **Jhonxy123/Jhonxy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
